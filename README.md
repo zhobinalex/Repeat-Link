@@ -26,9 +26,9 @@ cd Repeat-Link
 
 ### 4. List Python Files
 
+pip install -r requirements.txt
 ```
-ls *.py
-```
+after setup 
 
 ### 5. Run a Python File
 ```
