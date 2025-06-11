@@ -1,8 +1,5 @@
 It sounds like you want to:
 
-1. Clone a GitHub repository using git clone in Termux.
-2. Work with a Python file (*.py) inside the cloned folder.
-
 Here’s a step-by-step example for Termux:
 
 ---
