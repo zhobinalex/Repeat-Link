@@ -15,7 +15,7 @@ pkg install git python
 
 Replace the URL with the repo you want:
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/zhobinalex/Repeat-Link.git
 ```
 
 ### 3. Enter the Cloned Folder
