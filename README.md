@@ -31,10 +31,8 @@ ls *.py
 ```
 
 ### 5. Run a Python File
-
-For example, to run a file called `main.py`:
 ```
-python main.py
+repeat.py
 ```
 
 ---
