@@ -21,7 +21,7 @@ git clone https://github.com/zhobinalex/Repeat-Link.git
 ### 3. Enter the Cloned Folder
 
 ```
-cd repository
+cd Repeat-Link
 ```
 
 ### 4. List Python Files
